@@ -1,0 +1,51 @@
+.center-list {
+    height: 70vh;
+}
+
+.t1-center {
+    padding-top: 80px;
+    color: rgb(0, 0, 0);
+    font-size: 46px;
+}
+
+.list {
+    list-style-type:  none;
+}
+
+.list a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.button-add {
+    margin-top: 100px;
+    background-color: #000000;
+    padding: 14px 18px;
+    font-weight: 700;
+    width:fit-content;
+}
+
+.button-add a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.button-delete {
+    margin-top: 100px;
+    background-color: #000000;
+    padding: 14px 18px;
+    font-weight: 700;
+    width:fit-content;
+}
+.button-delete a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.answers {
+    padding:15px;
+    margin-top:15px;
+    border: 1px solid #198754;
+}
